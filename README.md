@@ -1,12 +1,12 @@
-## CLP-Smart-Energy-Challenge
+# CLP-Smart-Energy-Challenge
 The coding challenge from CLP Smart Energy
 
-# To start the script, type:
+If you have yarn in your computer, type:
 
-yarn install
-yarn start
+yarn install\
+yarn start\
 
-# If you have yarn in your computer, or:
+Otherwise, type:
 
-npm install
-npm start
+npm install\
+npm start\
