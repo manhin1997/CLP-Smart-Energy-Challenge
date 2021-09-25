@@ -4,9 +4,9 @@ The coding challenge from CLP Smart Energy
 If you have yarn in your computer, type:
 
 yarn install\
-yarn start\
+yarn start
 
 Otherwise, type:
 
 npm install\
-npm start\
+npm start
